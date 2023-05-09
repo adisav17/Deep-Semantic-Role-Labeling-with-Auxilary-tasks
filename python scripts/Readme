@@ -1,1 +1,2 @@
-python scripts for terminal execution. Just need the data files from the Nombank task in the same folder.  
+python scripts for terminal execution. Just need the data files from the Nombank task in the same folder.
+Each script has a sample hyperparameter initialization to try out. The grid search is done in a separate ipython notebook.  
