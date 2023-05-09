@@ -117,11 +117,6 @@ def convert_file(file_path):
 
     return sentences, tags, predicates
 
-from google.colab import drive
-drive.mount('/content/drive')
-
-# Commented out IPython magic to ensure Python compatibility.
-# %cd /content/drive/My Drive/nlp_srl
 
 sentences_1, labels_1, predicates_1 = convert_file('partitive_group_nombank.clean.train')
 
