@@ -1,1 +1,2 @@
-
+We test the capabilities of models with and without auxiliary features with regards to domain adaptation, zero shot learning and few shot learning.
+We see that the model incorporating the auxiliary tasks achieves significantly better F-scores with zero shot learning for generalization across nominal srl tasks. 
