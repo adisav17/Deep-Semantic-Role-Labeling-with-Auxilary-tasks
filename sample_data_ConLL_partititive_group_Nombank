@@ -1,0 +1,69 @@
+But	CC	O	0	0
+about	IN	B-NP	1	0
+25	CD	I-NP	2	0
+%	NN	I-NP	3	0	PRED	PARTITIVE-QUANT
+of	IN	B-PP	4	0
+the	DT	B-NP	5	0
+insiders	NNS	I-NP	6	0	ARG1
+COMMA	COMMA	O	7	0
+according	VBG	B-PP	8	0
+to	IN	B-PP	9	0
+SEC	NNP	B-NP	10	0
+figures	NNS	I-NP	11	0
+COMMA	COMMA	O	12	0
+file	VBP	O	13	0
+their	PRP$	B-NP	14	0
+reports	NNS	I-NP	15	0
+late	RB	B-ADVP	16	0
+.	.	O	17	0
+
+The	DT	B-NP	0	1
+bond	NN	I-NP	1	1
+fund	NN	I-NP	2	1
+will	MD	O	3	1
+invest	VB	O	4	1
+in	IN	B-PP	5	1
+high-grade	JJ	B-NP	6	1
+or	CC	I-NP	7	1
+medium-grade	JJ	I-NP	8	1
+bonds	NNS	I-NP	9	1
+COMMA	COMMA	O	10	1
+mortgages	NNS	B-NP	11	1
+or	CC	O	12	1.
+asset-backed	JJ	B-NP	13	1
+securities	NNS	I-NP	14	1
+COMMA	COMMA	O	15	1
+including	VBG	O	16	1
+as	IN	O	17	1
+much	RB	B-ADVP	18	1
+as	IN	B-NP	19	1
+15	CD	I-NP	20	1
+%	NN	I-NP	21	1	PRED	PARTITIVE-QUANT
+in	IN	B-PP	22	1
+foreign	JJ	B-NP	23	1
+securities	NNS	I-NP	24	1	ARG1
+.	.	O	25	1
+
+The	DT	B-NP	0	2
+position	NN	I-NP	1	2
+of	IN	B-PP	2	2
+the	DT	B-NP	3	2
+United	NNP	B-NP	4	2
+States	NNPS	I-NP	5	2
+COMMA	COMMA	O	6	2
+which	WDT	B-NP	7	2
+once	RB	B-ADVP	8	2
+contributed	VBD	O	9	2
+25	CD	B-NP	10	2
+%	NN	I-NP	11	2	PRED	PARTITIVE-QUANT
+of	IN	B-PP	12	2
+the	DT	B-NP	13	2
+budget	NN	I-NP	14	2	ARG1
+COMMA	COMMA	O	15	2
+is	VBZ	O	16	2
+that	IN	B-SBAR	17	2
+nothing	NN	B-NP	18	2
+has	VBZ	O	19	2
+changed	VBN	O	20	2
+.	.	O	21	2
+
