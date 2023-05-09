@@ -129,23 +129,6 @@ sentences_2, labels_2, predicates_2 = convert_file('partitive_group_nombank.clea
 
 sentences_3, labels_3, predicates_3 = convert_file('partitive_group_nombank.clean.dev')
 
-print(len(sentences_1))
-print(len(labels_1))
-print(len(predicates_1))
-
-print(len(sentences_2))
-print(len(labels_2))
-print(len(predicates_2))
-
-print(len(sentences_3))
-print(len(labels_3))
-print(len(predicates_3))
-
-sentences_3[0]
-
-labels_3[0]
-
-predicates_1[0:5]
 
 sentences_all = sentences_1.copy()
 labels_all = labels_1.copy()
@@ -158,10 +141,6 @@ predicates_all.extend(predicates_2)
 sentences_all.extend(sentences_3)
 labels_all.extend(labels_3)
 predicates_all.extend(predicates_3)
-
-print(len(sentences_all))
-print(len(labels_all))
-print(len(predicates_all))
 
 # Combine sentences, labels, and predicates into a list of tuples
 combined_data = list(zip(sentences_all, labels_all, predicates_all))
