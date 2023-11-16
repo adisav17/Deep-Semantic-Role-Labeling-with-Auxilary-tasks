@@ -10,11 +10,11 @@ This is equivalent to the _score_file_without_adjustment_ in the scoring python 
 With regards to generalization testing, 
 
 Given a model 1 and model 2 trained on the partitive task,
-We use zero shot shot learning to predict on the percent task. 
+We use zero shot learning to predict on the percent task. 
 We get an F-score of 90.6 with model 1.
 We get an F-score of 96.1 with model 2.  
 
 
-We use few shot learning to predict on the percent task. 
+We use light-weight/rapid finetuning to predict on the percent task. 
 We get an F-score of 92.3 with model 1.
 We get an F-score of 97.2 with model 2.
