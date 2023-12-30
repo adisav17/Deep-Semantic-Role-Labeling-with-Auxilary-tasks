@@ -5,7 +5,7 @@ For the bert based model with predicate indicator embeddings and positional embe
 For the bert based model trained with an auxiliary model tuning on linguistic features, we get an F-score of 84.6. We call this model 2.
 For the multi view ensemble model, we get an F-score of 87.2. 
 
-This is equivalent to the _score_file_without_adjustment_ in the scoring python script. 
+ 
 
 With regards to generalization testing, 
 
